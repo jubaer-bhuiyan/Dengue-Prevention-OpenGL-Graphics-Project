@@ -14,7 +14,7 @@ This is an OpenGL-based graphics project focused on raising awareness and educat
 Ensure you have the following installed:
 - OpenGL
 - GLUT (OpenGL Utility Toolkit)
-- A C++ Compiler (e.g., g++, MinGW, or MSVC).
+- A C++ Compiler (e.g., g++, MinGW, or MSVC)
 
 ### Steps
 1. **Clone the repository:**
